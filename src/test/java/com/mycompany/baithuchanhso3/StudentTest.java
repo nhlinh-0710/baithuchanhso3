@@ -10,8 +10,6 @@ public class StudentTest {
     @BeforeMethod
     public void setUp() {
         student = new Student("S001", "John", 20);
-
-
     }
 
     @Test
